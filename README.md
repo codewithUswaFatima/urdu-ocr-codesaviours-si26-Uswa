@@ -10,3 +10,11 @@ Urdu OCR is more challenging than English OCR because Urdu is written in a cursi
 
 ### 3. What are 2 real-world situations where Urdu OCR would be useful?
 Urdu OCR is very useful for visually impaired people because it can extract text from books or documents and convert it into speech using text-to-speech technology. It is also useful for government offices, libraries, and legal organizations where thousands of Urdu documents, gazettes, and official records need to be digitized and stored in searchable electronic form. This saves time, reduces manual work, and makes documents easier to search and manage. 
+
+## Week 2 Summary
+
+- Preprocessed 102 Urdu text images.
+- Converted images to grayscale, resized them, removed noise, and applied binary thresholding.
+- Evaluated Tesseract OCR on sample images.
+- Observed that Tesseract struggles with Urdu due to the cursive nature of the script, similar-looking characters, and inconsistent spacing.
+- These results motivate the development of a dedicated Urdu OCR model in the following weeks.
