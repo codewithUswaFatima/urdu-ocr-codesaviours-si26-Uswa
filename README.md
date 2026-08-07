@@ -70,9 +70,9 @@ Upload an image containing Urdu text and the app will attempt to extract and dis
 
 ## Dataset details
 
-*(Fill in with your actual Week 4 dataset details before submitting — for example:)*
 
-- **Number of images:** [add total image count]
+
+- **Number of images:** 203
 - **Sources:** [e.g. self-collected handwritten samples, scanned printed text, public Urdu datasets]
 - **Variety collected:** [fonts used, handwriting vs. printed, background types, image sizes/resolutions]
 
