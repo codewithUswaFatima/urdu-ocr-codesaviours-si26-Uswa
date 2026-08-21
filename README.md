@@ -8,7 +8,7 @@ Urdu is read by over 300 million people across Pakistan, India, and Bangladesh, 
 
 ## Live Demo
 
-**[Try it on Hugging Face Spaces →](https://huggingface.co/spaces/122Uswa/urdu-ocr-codesaviours-si26-Uswa)**
+https://huggingface.co/spaces/122Uswa/urdu-ocr-codesaviours-si26-Uswa
 
 Upload an image containing Urdu text and the app will attempt to extract it.
 
