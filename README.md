@@ -37,7 +37,7 @@ Open the local URL shown in your terminal (usually `http://127.0.0.1:7860`). The
 
 ## Demo Video
 
-[Loom walkthrough](PASTE_YOUR_LOOM_LINK_HERE)
+https://www.loom.com/share/9955e1a1f96f4ee89cf65b9b413c7056
 
 ---
 
